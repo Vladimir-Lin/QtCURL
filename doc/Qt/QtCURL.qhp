@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qtcurl</namespace>
+    <virtualFolder>QtCURL</virtualFolder>
+    <customFilter name="Qt CURL 1.6.0">
+        <filterAttribute>QtCURL</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>QtCURL</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="Qt CURL Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="QtCURL" id="QtCURL::QtCURL" ref="tw/index.html#QtCURL"/>
+            <keyword name="Operations" id="QtCURL::Operations" ref="tw/index.html#Operations"/>
+            <keyword id="QtCURL::QtCURL" ref="tw/index.html#QtCURL"/>
+            <keyword id="QtCURL::Operations" ref="tw/index.html#Operations"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>en/*</file>
+            <file>tw/*</file>
+            <file>cn/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
